@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://corporatecleaninggroup.com.au/sitemap.xml
